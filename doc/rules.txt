@@ -2,6 +2,8 @@ changed this file in feature branch.
 
 This is faeture branch.
 
-I have modifified this file in master also
+I want to create merge conflict.
 
-I want to create merge conflict and resolve it.
+In master branch right now.
+
+Modified this file after merging a pull request from feature to master.
